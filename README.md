@@ -1,2 +1,2 @@
 ## Hangman
-Hangman game I have built with C programming language and utilized linked list data structure.
+Hangman game I have built with C programming language and utilized linked list data structure via dynamic memory management
