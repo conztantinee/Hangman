@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1576147999 source:c:\users\toshiba\desktop\c\hangman\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+	"linkedlist.h"
+	"checking.h"
+
+1576013600 source:c:\users\toshiba\desktop\c\hangman\word.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+
+1576106186 source:c:\users\toshiba\desktop\c\hangman\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+	"linkedlist.h"
+
+1576107449 c:\users\toshiba\desktop\c\hangman\linkedlist.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+
+1576107570 c:\users\toshiba\desktop\c\hangman\checking.h
+
+1576107657 source:c:\users\toshiba\desktop\c\hangman\checking.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+	"linkedlist.h"
+	"checking.h"
+
